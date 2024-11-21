@@ -1,0 +1,51 @@
+﻿<Window x:Class="Cine_Interfaces.Pantalla_Registrarse"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Registrarse" Height="720" Width="1080"
+        WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="Images/fondo.jpeg"/>
+        </Grid.Background>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="3*" />
+        </Grid.RowDefinitions>
+
+        <!-- Título -->
+        <TextBlock Text="Registrarse" 
+                   HorizontalAlignment="Center" VerticalAlignment="Bottom" 
+                   FontSize="28" FontWeight="Bold" Grid.Row="0" Foreground="White"  FontFamily="Bahnschrift"/>
+
+        <!-- Contenido Principal -->
+        <StackPanel Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Top" Grid.Row="1" Width="300" Margin="0,200,0,0">
+            <!-- Etiqueta y Campo Nombre de Usuario -->
+            <TextBlock Text="Nombre de Usuario:" 
+                       HorizontalAlignment="Left" FontSize="16" Margin="0,10,0,5" Foreground="White"  FontFamily="Bahnschrift" />
+            <TextBox Name="UsernameField" Margin="0,0,0,20" />
+
+            <!-- Etiqueta y Campo Contraseña -->
+            <TextBlock Text="Contraseña:" 
+                       HorizontalAlignment="Left" FontSize="16" Margin="0,10,0,5" Foreground="White"  FontFamily="Bahnschrift" />
+            <PasswordBox Name="PasswordField" Margin="0,0,0,10" />
+
+            <!-- Etiqueta y Campo Confirmar Contraseña -->
+            <TextBlock Text="Confirmar Contraseña:" 
+                       HorizontalAlignment="Left" FontSize="16" Margin="0,10,0,5" Foreground="White"  FontFamily="Bahnschrift" />
+            <PasswordBox Name="ConfirmPasswordField" Margin="0,0,0,20" />
+
+            <!-- Botones Cancelar y Registrarse -->
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <Button Content="Cancelar" Width="100" Margin="5" Click="Cancel_Click" />
+                <Button Content="Registrarse" Width="100" Margin="5" Click="Register_Click" />
+            </StackPanel>
+        </StackPanel>
+
+        <!-- Imagen para volver -->
+        <Image Source="Images/volver.png" 
+               HorizontalAlignment="Right" VerticalAlignment="Bottom" 
+               Margin="0,0,10,10" Width="50" Height="50" 
+               Cursor="Hand" MouseLeftButtonDown="Volver_Click" RenderTransformOrigin="-0.84,4.381" Grid.Row="1"/>
+    </Grid>
+</Window>

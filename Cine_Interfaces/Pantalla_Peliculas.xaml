@@ -1,0 +1,24 @@
+﻿<Window x:Class="Cine_Interfaces.Pantalla_Peliculas"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Pantalla Peliculas" Height="720" Width="1080"
+        WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="Images/fondo_vacio.jpeg"/>
+        </Grid.Background>
+        <!-- WrapPanel para organizar las imágenes en filas -->
+        <WrapPanel>
+            <!-- Imagen 1 (Malditos Bastardos) -->
+            <Image Source="Images/malditos.jpg" Width="250" Height="364" Margin="10" Cursor="Hand" MouseLeftButtonDown="Imagen_Click"/>
+
+            <!-- Imagen 2 (La Favorita) -->
+            <Image Source="Images/favorita.jpg" Width="250" Height="364" Margin="10" Cursor="Hand" MouseLeftButtonDown="Imagen_Click"/>
+        </WrapPanel>
+        <Image Source="Images/volver.png" 
+       HorizontalAlignment="Right" VerticalAlignment="Bottom" 
+       Margin="0,0,10,10" Width="50" Height="50" 
+       Cursor="Hand" MouseLeftButtonDown="Volver_Click" RenderTransformOrigin="-0.84,4.381" Grid.Row="1"/>
+        
+    </Grid>
+</Window>

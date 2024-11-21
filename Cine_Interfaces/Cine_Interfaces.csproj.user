@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Pantalla_Butacas.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pantalla_Cines.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pantalla_ComprarEntradas.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pantalla_InicioSesion.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pantalla_Peliculas.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pantalla_Perfil.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pantalla_Promociones.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pantalla_Registrarse.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pantalla_Sesiones.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pantalla_Butacas.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pantalla_Cines.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pantalla_ComprarEntradas.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pantalla_InicioSesion.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pantalla_Peliculas.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pantalla_Perfil.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pantalla_Promociones.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pantalla_Registrarse.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pantalla_Sesiones.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>
