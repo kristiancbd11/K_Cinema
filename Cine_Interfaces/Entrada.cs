@@ -10,15 +10,17 @@ namespace Cine_Interfaces
     public class Entrada
     {
         public string NombreUser { get; set; }
+        public int CodSesion { get; set; }
         public string Pelicula { get; set; }
         public string Cine { get; set; }
         public int Hora { get; set; }
         public int Minutos { get; set; }
         public int NumButaca { get; set; }
 
-        public Entrada(string nombreUser, string pelicula, string cine, int hora, int minutos, int numButaca)
+        public Entrada(string nombreUser, int codSesion, string pelicula, string cine, int hora, int minutos, int numButaca)
         {
             NombreUser = nombreUser;
+            CodSesion = codSesion;
             Pelicula = pelicula;
             Cine = cine;
             Hora = hora;

@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\USER\vs workspace\Cine_Interfaces\Cine_Interfaces\obj\Debug\net8.0-windows\
+C:\Users\USER\vs-workspace\Cine_Interfaces\K_Cinema\Cine_Interfaces\obj\Debug\net8.0-windows\
 Cine_Interfaces
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
-C:\Users\USER\vs workspace\Cine_Interfaces\Cine_Interfaces\App.xaml
-10-800640547
+C:\Users\USER\vs-workspace\Cine_Interfaces\K_Cinema\Cine_Interfaces\App.xaml
+11-925249078
 71195826009
-18427317004
+19710668151
 2061102325835
-MainWindow.xaml;Pantalla_Butacas.xaml;Pantalla_Cines.xaml;Pantalla_ComprarEntradas.xaml;Pantalla_InicioSesion.xaml;Pantalla_Peliculas.xaml;Pantalla_Perfil.xaml;Pantalla_Promociones.xaml;Pantalla_Registrarse.xaml;Pantalla_Sesiones.xaml;
+MainWindow.xaml;Pantalla_Butacas.xaml;Pantalla_Cines.xaml;Pantalla_ComprarEntradas.xaml;Pantalla_InicioSesion.xaml;Pantalla_Peliculas.xaml;Pantalla_Perfil.xaml;Pantalla_Promociones.xaml;Pantalla_Registrarse.xaml;Pantalla_Sesiones.xaml;SolicitarContraseña.xaml;
 
 False
 

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CvrIhWj9fNU=",
+  "dgSpecHash": "XBnL/OECnRc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\vs workspace\\Cine_Interfaces\\Cine_Interfaces\\Cine_Interfaces.csproj",
+  "projectFilePath": "C:\\Users\\USER\\vs-workspace\\Cine_Interfaces\\K_Cinema\\Cine_Interfaces\\Cine_Interfaces.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\bouncycastle.cryptography\\2.3.1\\bouncycastle.cryptography.2.3.1.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\google.protobuf\\3.26.1\\google.protobuf.3.26.1.nupkg.sha512",

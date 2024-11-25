@@ -1,117 +1,125 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\USER\\vs workspace\\Cine_Interfaces\\",
+  "WorkspaceRootPath": "C:\\Users\\USER\\vs-workspace\\Cine_Interfaces\\K_Cinema\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|c:\\users\\user\\vs workspace\\cine_interfaces\\cine_interfaces\\pantalla_perfil.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|solutionrelative:cine_interfaces\\pantalla_perfil.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|c:\\users\\user\\vs workspace\\cine_interfaces\\cine_interfaces\\pantalla_perfil.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|solutionrelative:cine_interfaces\\pantalla_perfil.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|c:\\users\\user\\vs workspace\\cine_interfaces\\cine_interfaces\\pantalla_sesiones.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|solutionrelative:cine_interfaces\\pantalla_sesiones.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|c:\\users\\user\\vs workspace\\cine_interfaces\\cine_interfaces\\pantalla_comprarentradas.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|solutionrelative:cine_interfaces\\pantalla_comprarentradas.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|c:\\users\\user\\vs workspace\\cine_interfaces\\cine_interfaces\\pantalla_registrarse.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|solutionrelative:cine_interfaces\\pantalla_registrarse.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|c:\\users\\user\\vs workspace\\cine_interfaces\\cine_interfaces\\pantalla_registrarse.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|solutionrelative:cine_interfaces\\pantalla_registrarse.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|c:\\users\\user\\vs workspace\\cine_interfaces\\cine_interfaces\\pantalla_butacas.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|solutionrelative:cine_interfaces\\pantalla_butacas.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|c:\\users\\user\\vs workspace\\cine_interfaces\\cine_interfaces\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|solutionrelative:cine_interfaces\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|c:\\users\\user\\vs workspace\\cine_interfaces\\cine_interfaces\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|solutionrelative:cine_interfaces\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|c:\\users\\user\\vs workspace\\cine_interfaces\\cine_interfaces\\pantalla_comprarentradas.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|solutionrelative:cine_interfaces\\pantalla_comprarentradas.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|c:\\users\\user\\vs workspace\\cine_interfaces\\cine_interfaces\\pantalla_promociones.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|solutionrelative:cine_interfaces\\pantalla_promociones.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|c:\\users\\user\\vs workspace\\cine_interfaces\\cine_interfaces\\pantalla_cines.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|solutionrelative:cine_interfaces\\pantalla_cines.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|c:\\users\\user\\vs workspace\\cine_interfaces\\cine_interfaces\\pantalla_cines.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|solutionrelative:cine_interfaces\\pantalla_cines.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|c:\\users\\user\\vs workspace\\cine_interfaces\\cine_interfaces\\pantalla_butacas.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|solutionrelative:cine_interfaces\\pantalla_butacas.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|c:\\users\\user\\vs workspace\\cine_interfaces\\cine_interfaces\\pantalla_peliculas.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|solutionrelative:cine_interfaces\\pantalla_peliculas.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|c:\\users\\user\\vs workspace\\cine_interfaces\\cine_interfaces\\pantalla_sesiones.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|solutionrelative:cine_interfaces\\pantalla_sesiones.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|c:\\users\\user\\vs workspace\\cine_interfaces\\cine_interfaces\\pantalla_peliculas.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|solutionrelative:cine_interfaces\\pantalla_peliculas.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|c:\\users\\user\\vs workspace\\cine_interfaces\\cine_interfaces\\pantalla_promociones.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|solutionrelative:cine_interfaces\\pantalla_promociones.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|c:\\users\\user\\vs workspace\\cine_interfaces\\cine_interfaces\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|c:\\users\\user\\vs-workspace\\cine_interfaces\\k_cinema\\cine_interfaces\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|solutionrelative:cine_interfaces\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|c:\\users\\user\\vs workspace\\cine_interfaces\\cine_interfaces\\entrada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|c:\\users\\user\\vs-workspace\\cine_interfaces\\k_cinema\\cine_interfaces\\pantalla_perfil.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|solutionrelative:cine_interfaces\\pantalla_perfil.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|c:\\users\\user\\vs-workspace\\cine_interfaces\\k_cinema\\cine_interfaces\\entrada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|solutionrelative:cine_interfaces\\entrada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|c:\\users\\user\\vs workspace\\cine_interfaces\\cine_interfaces\\pantalla_iniciosesion.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|solutionrelative:cine_interfaces\\pantalla_iniciosesion.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|c:\\users\\user\\vs-workspace\\cine_interfaces\\k_cinema\\cine_interfaces\\pantalla_perfil.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|solutionrelative:cine_interfaces\\pantalla_perfil.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|c:\\users\\user\\vs workspace\\cine_interfaces\\cine_interfaces\\cine_interfaces.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|c:\\users\\user\\vs-workspace\\cine_interfaces\\k_cinema\\cine_interfaces\\pantalla_comprarentradas.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|solutionrelative:cine_interfaces\\pantalla_comprarentradas.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|c:\\users\\user\\vs-workspace\\cine_interfaces\\k_cinema\\cine_interfaces\\pantalla_comprarentradas.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|solutionrelative:cine_interfaces\\pantalla_comprarentradas.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|c:\\users\\user\\vs-workspace\\cine_interfaces\\k_cinema\\cine_interfaces\\solicitarcontrase\u00F1a.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|solutionrelative:cine_interfaces\\solicitarcontrase\u00F1a.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|c:\\users\\user\\vs-workspace\\cine_interfaces\\k_cinema\\cine_interfaces\\solicitarcontrase\u00F1a.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|solutionrelative:cine_interfaces\\solicitarcontrase\u00F1a.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|c:\\users\\user\\vs-workspace\\cine_interfaces\\k_cinema\\cine_interfaces\\cine_interfaces.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|solutionrelative:cine_interfaces\\cine_interfaces.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|c:\\users\\user\\vs workspace\\cine_interfaces\\cine_interfaces\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|c:\\users\\user\\vs-workspace\\cine_interfaces\\k_cinema\\cine_interfaces\\pantalla_butacas.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|solutionrelative:cine_interfaces\\pantalla_butacas.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|c:\\users\\user\\vs-workspace\\cine_interfaces\\k_cinema\\cine_interfaces\\pantalla_butacas.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|solutionrelative:cine_interfaces\\pantalla_butacas.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|c:\\users\\user\\vs-workspace\\cine_interfaces\\k_cinema\\cine_interfaces\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|solutionrelative:cine_interfaces\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|c:\\users\\user\\vs-workspace\\cine_interfaces\\k_cinema\\cine_interfaces\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|solutionrelative:cine_interfaces\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|c:\\users\\user\\vs-workspace\\cine_interfaces\\k_cinema\\cine_interfaces\\pantalla_sesiones.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|solutionrelative:cine_interfaces\\pantalla_sesiones.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|c:\\users\\user\\vs-workspace\\cine_interfaces\\k_cinema\\cine_interfaces\\pantalla_registrarse.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|solutionrelative:cine_interfaces\\pantalla_registrarse.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|c:\\users\\user\\vs-workspace\\cine_interfaces\\k_cinema\\cine_interfaces\\pantalla_registrarse.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|solutionrelative:cine_interfaces\\pantalla_registrarse.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|c:\\users\\user\\vs-workspace\\cine_interfaces\\k_cinema\\cine_interfaces\\pantalla_promociones.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|solutionrelative:cine_interfaces\\pantalla_promociones.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|c:\\users\\user\\vs-workspace\\cine_interfaces\\k_cinema\\cine_interfaces\\pantalla_cines.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|solutionrelative:cine_interfaces\\pantalla_cines.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|c:\\users\\user\\vs-workspace\\cine_interfaces\\k_cinema\\cine_interfaces\\pantalla_cines.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|solutionrelative:cine_interfaces\\pantalla_cines.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|c:\\users\\user\\vs-workspace\\cine_interfaces\\k_cinema\\cine_interfaces\\pantalla_peliculas.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|solutionrelative:cine_interfaces\\pantalla_peliculas.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|c:\\users\\user\\vs-workspace\\cine_interfaces\\k_cinema\\cine_interfaces\\pantalla_sesiones.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|solutionrelative:cine_interfaces\\pantalla_sesiones.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|c:\\users\\user\\vs-workspace\\cine_interfaces\\k_cinema\\cine_interfaces\\pantalla_peliculas.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|solutionrelative:cine_interfaces\\pantalla_peliculas.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|c:\\users\\user\\vs-workspace\\cine_interfaces\\k_cinema\\cine_interfaces\\pantalla_promociones.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|solutionrelative:cine_interfaces\\pantalla_promociones.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|c:\\users\\user\\vs-workspace\\cine_interfaces\\k_cinema\\cine_interfaces\\pantalla_iniciosesion.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|solutionrelative:cine_interfaces\\pantalla_iniciosesion.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|c:\\users\\user\\vs-workspace\\cine_interfaces\\k_cinema\\cine_interfaces\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|solutionrelative:cine_interfaces\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|c:\\users\\user\\vs workspace\\cine_interfaces\\cine_interfaces\\sesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|c:\\users\\user\\vs-workspace\\cine_interfaces\\k_cinema\\cine_interfaces\\sesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|solutionrelative:cine_interfaces\\sesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|c:\\users\\user\\vs workspace\\cine_interfaces\\cine_interfaces\\pantalla_iniciosesion.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|c:\\users\\user\\vs-workspace\\cine_interfaces\\k_cinema\\cine_interfaces\\pantalla_iniciosesion.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|solutionrelative:cine_interfaces\\pantalla_iniciosesion.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|c:\\users\\user\\vs workspace\\cine_interfaces\\cine_interfaces\\butaca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|c:\\users\\user\\vs-workspace\\cine_interfaces\\k_cinema\\cine_interfaces\\butaca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|solutionrelative:cine_interfaces\\butaca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|c:\\users\\user\\vs workspace\\cine_interfaces\\cine_interfaces\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|c:\\users\\user\\vs-workspace\\cine_interfaces\\k_cinema\\cine_interfaces\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|solutionrelative:cine_interfaces\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|c:\\users\\user\\vs workspace\\cine_interfaces\\cine_interfaces\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|c:\\users\\user\\vs-workspace\\cine_interfaces\\k_cinema\\cine_interfaces\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{640535FC-D894-47C8-A622-9FDAE4241B3D}|Cine_Interfaces\\Cine_Interfaces.csproj|solutionrelative:cine_interfaces\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
@@ -125,36 +133,178 @@
           "SelectedChildIndex": 4,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Pantalla_Registrarse.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\vs workspace\\Cine_Interfaces\\Cine_Interfaces\\Pantalla_Registrarse.xaml.cs",
-              "RelativeDocumentMoniker": "Cine_Interfaces\\Pantalla_Registrarse.xaml.cs",
-              "ToolTip": "C:\\Users\\USER\\vs workspace\\Cine_Interfaces\\Cine_Interfaces\\Pantalla_Registrarse.xaml.cs",
-              "RelativeToolTip": "Cine_Interfaces\\Pantalla_Registrarse.xaml.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwEUAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T17:47:08.52Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Pantalla_ComprarEntradas.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\vs workspace\\Cine_Interfaces\\Cine_Interfaces\\Pantalla_ComprarEntradas.xaml.cs",
-              "RelativeDocumentMoniker": "Cine_Interfaces\\Pantalla_ComprarEntradas.xaml.cs",
-              "ToolTip": "C:\\Users\\USER\\vs workspace\\Cine_Interfaces\\Cine_Interfaces\\Pantalla_ComprarEntradas.xaml.cs",
-              "RelativeToolTip": "Cine_Interfaces\\Pantalla_ComprarEntradas.xaml.cs",
-              "ViewState": "AgIAAFkAAAAAAAAAAAAwwHAAAAAgAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Pantalla_Perfil.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\vs-workspace\\Cine_Interfaces\\K_Cinema\\Cine_Interfaces\\Pantalla_Perfil.xaml.cs",
+              "RelativeDocumentMoniker": "Cine_Interfaces\\Pantalla_Perfil.xaml.cs",
+              "ToolTip": "C:\\Users\\USER\\vs-workspace\\Cine_Interfaces\\K_Cinema\\Cine_Interfaces\\Pantalla_Perfil.xaml.cs",
+              "RelativeToolTip": "Cine_Interfaces\\Pantalla_Perfil.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T21:23:33.142Z"
+              "WhenOpened": "2024-11-18T02:37:43.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pantalla_ComprarEntradas.xaml",
+              "DocumentMoniker": "C:\\Users\\USER\\vs-workspace\\Cine_Interfaces\\K_Cinema\\Cine_Interfaces\\Pantalla_ComprarEntradas.xaml",
+              "RelativeDocumentMoniker": "Cine_Interfaces\\Pantalla_ComprarEntradas.xaml",
+              "ToolTip": "C:\\Users\\USER\\vs-workspace\\Cine_Interfaces\\K_Cinema\\Cine_Interfaces\\Pantalla_ComprarEntradas.xaml",
+              "RelativeToolTip": "Cine_Interfaces\\Pantalla_ComprarEntradas.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-17T21:21:18.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pantalla_ComprarEntradas.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\vs-workspace\\Cine_Interfaces\\K_Cinema\\Cine_Interfaces\\Pantalla_ComprarEntradas.xaml.cs",
+              "RelativeDocumentMoniker": "Cine_Interfaces\\Pantalla_ComprarEntradas.xaml.cs",
+              "ToolTip": "C:\\Users\\USER\\vs-workspace\\Cine_Interfaces\\K_Cinema\\Cine_Interfaces\\Pantalla_ComprarEntradas.xaml.cs",
+              "RelativeToolTip": "Cine_Interfaces\\Pantalla_ComprarEntradas.xaml.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAwwHEAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T21:23:33.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DatabaseManager.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\vs-workspace\\Cine_Interfaces\\K_Cinema\\Cine_Interfaces\\DatabaseManager.cs",
+              "RelativeDocumentMoniker": "Cine_Interfaces\\DatabaseManager.cs",
+              "ToolTip": "C:\\Users\\USER\\vs-workspace\\Cine_Interfaces\\K_Cinema\\Cine_Interfaces\\DatabaseManager.cs",
+              "RelativeToolTip": "Cine_Interfaces\\DatabaseManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T18:43:35.014Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Entrada.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\vs-workspace\\Cine_Interfaces\\K_Cinema\\Cine_Interfaces\\Entrada.cs",
+              "RelativeDocumentMoniker": "Cine_Interfaces\\Entrada.cs",
+              "ToolTip": "C:\\Users\\USER\\vs-workspace\\Cine_Interfaces\\K_Cinema\\Cine_Interfaces\\Entrada.cs",
+              "RelativeToolTip": "Cine_Interfaces\\Entrada.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvwsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T04:48:15.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pantalla_Perfil.xaml",
+              "DocumentMoniker": "C:\\Users\\USER\\vs-workspace\\Cine_Interfaces\\K_Cinema\\Cine_Interfaces\\Pantalla_Perfil.xaml",
+              "RelativeDocumentMoniker": "Cine_Interfaces\\Pantalla_Perfil.xaml",
+              "ToolTip": "C:\\Users\\USER\\vs-workspace\\Cine_Interfaces\\K_Cinema\\Cine_Interfaces\\Pantalla_Perfil.xaml",
+              "RelativeToolTip": "Cine_Interfaces\\Pantalla_Perfil.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-18T02:32:12.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SolicitarContrase\u00F1a.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\vs-workspace\\Cine_Interfaces\\K_Cinema\\Cine_Interfaces\\SolicitarContrase\u00F1a.xaml.cs",
+              "RelativeDocumentMoniker": "Cine_Interfaces\\SolicitarContrase\u00F1a.xaml.cs",
+              "ToolTip": "C:\\Users\\USER\\vs-workspace\\Cine_Interfaces\\K_Cinema\\Cine_Interfaces\\SolicitarContrase\u00F1a.xaml.cs",
+              "RelativeToolTip": "Cine_Interfaces\\SolicitarContrase\u00F1a.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T09:39:01.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SolicitarContrase\u00F1a.xaml",
+              "DocumentMoniker": "C:\\Users\\USER\\vs-workspace\\Cine_Interfaces\\K_Cinema\\Cine_Interfaces\\SolicitarContrase\u00F1a.xaml",
+              "RelativeDocumentMoniker": "Cine_Interfaces\\SolicitarContrase\u00F1a.xaml",
+              "ToolTip": "C:\\Users\\USER\\vs-workspace\\Cine_Interfaces\\K_Cinema\\Cine_Interfaces\\SolicitarContrase\u00F1a.xaml",
+              "RelativeToolTip": "Cine_Interfaces\\SolicitarContrase\u00F1a.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-25T09:38:52.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Pantalla_Butacas.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\vs-workspace\\Cine_Interfaces\\K_Cinema\\Cine_Interfaces\\Pantalla_Butacas.xaml.cs",
+              "RelativeDocumentMoniker": "Cine_Interfaces\\Pantalla_Butacas.xaml.cs",
+              "ToolTip": "C:\\Users\\USER\\vs-workspace\\Cine_Interfaces\\K_Cinema\\Cine_Interfaces\\Pantalla_Butacas.xaml.cs",
+              "RelativeToolTip": "Cine_Interfaces\\Pantalla_Butacas.xaml.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAowGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T21:58:49.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cine_Interfaces.csproj",
+              "DocumentMoniker": "C:\\Users\\USER\\vs-workspace\\Cine_Interfaces\\K_Cinema\\Cine_Interfaces\\Cine_Interfaces.csproj",
+              "RelativeDocumentMoniker": "Cine_Interfaces\\Cine_Interfaces.csproj",
+              "ToolTip": "C:\\Users\\USER\\vs-workspace\\Cine_Interfaces\\K_Cinema\\Cine_Interfaces\\Cine_Interfaces.csproj",
+              "RelativeToolTip": "Cine_Interfaces\\Cine_Interfaces.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-17T17:04:44.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Pantalla_Butacas.xaml",
+              "DocumentMoniker": "C:\\Users\\USER\\vs-workspace\\Cine_Interfaces\\K_Cinema\\Cine_Interfaces\\Pantalla_Butacas.xaml",
+              "RelativeDocumentMoniker": "Cine_Interfaces\\Pantalla_Butacas.xaml",
+              "ToolTip": "C:\\Users\\USER\\vs-workspace\\Cine_Interfaces\\K_Cinema\\Cine_Interfaces\\Pantalla_Butacas.xaml",
+              "RelativeToolTip": "Cine_Interfaces\\Pantalla_Butacas.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-17T21:49:36.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\vs-workspace\\Cine_Interfaces\\K_Cinema\\Cine_Interfaces\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Cine_Interfaces\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\USER\\vs-workspace\\Cine_Interfaces\\K_Cinema\\Cine_Interfaces\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Cine_Interfaces\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T16:56:33.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\USER\\vs-workspace\\Cine_Interfaces\\K_Cinema\\Cine_Interfaces\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Cine_Interfaces\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\USER\\vs-workspace\\Cine_Interfaces\\K_Cinema\\Cine_Interfaces\\MainWindow.xaml",
+              "RelativeToolTip": "Cine_Interfaces\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-17T16:56:40.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Pantalla_Sesiones.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\vs workspace\\Cine_Interfaces\\Cine_Interfaces\\Pantalla_Sesiones.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\vs-workspace\\Cine_Interfaces\\K_Cinema\\Cine_Interfaces\\Pantalla_Sesiones.xaml.cs",
               "RelativeDocumentMoniker": "Cine_Interfaces\\Pantalla_Sesiones.xaml.cs",
-              "ToolTip": "C:\\Users\\USER\\vs workspace\\Cine_Interfaces\\Cine_Interfaces\\Pantalla_Sesiones.xaml.cs",
+              "ToolTip": "C:\\Users\\USER\\vs-workspace\\Cine_Interfaces\\K_Cinema\\Cine_Interfaces\\Pantalla_Sesiones.xaml.cs",
               "RelativeToolTip": "Cine_Interfaces\\Pantalla_Sesiones.xaml.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAAwBoAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -162,73 +312,34 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Pantalla_Perfil.xaml",
-              "DocumentMoniker": "C:\\Users\\USER\\vs workspace\\Cine_Interfaces\\Cine_Interfaces\\Pantalla_Perfil.xaml",
-              "RelativeDocumentMoniker": "Cine_Interfaces\\Pantalla_Perfil.xaml",
-              "ToolTip": "C:\\Users\\USER\\vs workspace\\Cine_Interfaces\\Cine_Interfaces\\Pantalla_Perfil.xaml",
-              "RelativeToolTip": "Cine_Interfaces\\Pantalla_Perfil.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-18T02:32:12.287Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Pantalla_Perfil.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\vs workspace\\Cine_Interfaces\\Cine_Interfaces\\Pantalla_Perfil.xaml.cs",
-              "RelativeDocumentMoniker": "Cine_Interfaces\\Pantalla_Perfil.xaml.cs",
-              "ToolTip": "C:\\Users\\USER\\vs workspace\\Cine_Interfaces\\Cine_Interfaces\\Pantalla_Perfil.xaml.cs",
-              "RelativeToolTip": "Cine_Interfaces\\Pantalla_Perfil.xaml.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAlAAAAAAAAAA==",
+              "DocumentIndex": 14,
+              "Title": "Pantalla_Registrarse.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\vs-workspace\\Cine_Interfaces\\K_Cinema\\Cine_Interfaces\\Pantalla_Registrarse.xaml.cs",
+              "RelativeDocumentMoniker": "Cine_Interfaces\\Pantalla_Registrarse.xaml.cs",
+              "ToolTip": "C:\\Users\\USER\\vs-workspace\\Cine_Interfaces\\K_Cinema\\Cine_Interfaces\\Pantalla_Registrarse.xaml.cs",
+              "RelativeToolTip": "Cine_Interfaces\\Pantalla_Registrarse.xaml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwEUAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T02:37:43.815Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2024-11-17T17:47:08.52Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 15,
               "Title": "Pantalla_Registrarse.xaml",
-              "DocumentMoniker": "C:\\Users\\USER\\vs workspace\\Cine_Interfaces\\Cine_Interfaces\\Pantalla_Registrarse.xaml",
+              "DocumentMoniker": "C:\\Users\\USER\\vs-workspace\\Cine_Interfaces\\K_Cinema\\Cine_Interfaces\\Pantalla_Registrarse.xaml",
               "RelativeDocumentMoniker": "Cine_Interfaces\\Pantalla_Registrarse.xaml",
-              "ToolTip": "C:\\Users\\USER\\vs workspace\\Cine_Interfaces\\Cine_Interfaces\\Pantalla_Registrarse.xaml",
+              "ToolTip": "C:\\Users\\USER\\vs-workspace\\Cine_Interfaces\\K_Cinema\\Cine_Interfaces\\Pantalla_Registrarse.xaml",
               "RelativeToolTip": "Cine_Interfaces\\Pantalla_Registrarse.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-11-17T17:26:23.856Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Pantalla_Butacas.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\vs workspace\\Cine_Interfaces\\Cine_Interfaces\\Pantalla_Butacas.xaml.cs",
-              "RelativeDocumentMoniker": "Cine_Interfaces\\Pantalla_Butacas.xaml.cs",
-              "ToolTip": "C:\\Users\\USER\\vs workspace\\Cine_Interfaces\\Cine_Interfaces\\Pantalla_Butacas.xaml.cs",
-              "RelativeToolTip": "Cine_Interfaces\\Pantalla_Butacas.xaml.cs",
-              "ViewState": "AgIAAGsAAAAAAAAAAAAIwGcAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T21:58:49.589Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\USER\\vs workspace\\Cine_Interfaces\\Cine_Interfaces\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "Cine_Interfaces\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\USER\\vs workspace\\Cine_Interfaces\\Cine_Interfaces\\MainWindow.xaml",
-              "RelativeToolTip": "Cine_Interfaces\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-17T16:56:40.881Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "Pantalla_Promociones.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\vs workspace\\Cine_Interfaces\\Cine_Interfaces\\Pantalla_Promociones.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\vs-workspace\\Cine_Interfaces\\K_Cinema\\Cine_Interfaces\\Pantalla_Promociones.xaml.cs",
               "RelativeDocumentMoniker": "Cine_Interfaces\\Pantalla_Promociones.xaml.cs",
-              "ToolTip": "C:\\Users\\USER\\vs workspace\\Cine_Interfaces\\Cine_Interfaces\\Pantalla_Promociones.xaml.cs",
+              "ToolTip": "C:\\Users\\USER\\vs-workspace\\Cine_Interfaces\\K_Cinema\\Cine_Interfaces\\Pantalla_Promociones.xaml.cs",
               "RelativeToolTip": "Cine_Interfaces\\Pantalla_Promociones.xaml.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAIwBQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -236,45 +347,22 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\vs workspace\\Cine_Interfaces\\Cine_Interfaces\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "Cine_Interfaces\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\USER\\vs workspace\\Cine_Interfaces\\Cine_Interfaces\\MainWindow.xaml.cs",
-              "RelativeToolTip": "Cine_Interfaces\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T16:56:33.796Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Pantalla_ComprarEntradas.xaml",
-              "DocumentMoniker": "C:\\Users\\USER\\vs workspace\\Cine_Interfaces\\Cine_Interfaces\\Pantalla_ComprarEntradas.xaml",
-              "RelativeDocumentMoniker": "Cine_Interfaces\\Pantalla_ComprarEntradas.xaml",
-              "ToolTip": "C:\\Users\\USER\\vs workspace\\Cine_Interfaces\\Cine_Interfaces\\Pantalla_ComprarEntradas.xaml",
-              "RelativeToolTip": "Cine_Interfaces\\Pantalla_ComprarEntradas.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-17T21:21:18.695Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 17,
               "Title": "Pantalla_Cines.xaml",
-              "DocumentMoniker": "C:\\Users\\USER\\vs workspace\\Cine_Interfaces\\Cine_Interfaces\\Pantalla_Cines.xaml",
+              "DocumentMoniker": "C:\\Users\\USER\\vs-workspace\\Cine_Interfaces\\K_Cinema\\Cine_Interfaces\\Pantalla_Cines.xaml",
               "RelativeDocumentMoniker": "Cine_Interfaces\\Pantalla_Cines.xaml",
-              "ToolTip": "C:\\Users\\USER\\vs workspace\\Cine_Interfaces\\Cine_Interfaces\\Pantalla_Cines.xaml",
+              "ToolTip": "C:\\Users\\USER\\vs-workspace\\Cine_Interfaces\\K_Cinema\\Cine_Interfaces\\Pantalla_Cines.xaml",
               "RelativeToolTip": "Cine_Interfaces\\Pantalla_Cines.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-11-17T17:25:30.1Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 18,
               "Title": "Pantalla_Cines.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\vs workspace\\Cine_Interfaces\\Cine_Interfaces\\Pantalla_Cines.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\vs-workspace\\Cine_Interfaces\\K_Cinema\\Cine_Interfaces\\Pantalla_Cines.xaml.cs",
               "RelativeDocumentMoniker": "Cine_Interfaces\\Pantalla_Cines.xaml.cs",
-              "ToolTip": "C:\\Users\\USER\\vs workspace\\Cine_Interfaces\\Cine_Interfaces\\Pantalla_Cines.xaml.cs",
+              "ToolTip": "C:\\Users\\USER\\vs-workspace\\Cine_Interfaces\\K_Cinema\\Cine_Interfaces\\Pantalla_Cines.xaml.cs",
               "RelativeToolTip": "Cine_Interfaces\\Pantalla_Cines.xaml.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAQwBsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -282,22 +370,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Pantalla_Butacas.xaml",
-              "DocumentMoniker": "C:\\Users\\USER\\vs workspace\\Cine_Interfaces\\Cine_Interfaces\\Pantalla_Butacas.xaml",
-              "RelativeDocumentMoniker": "Cine_Interfaces\\Pantalla_Butacas.xaml",
-              "ToolTip": "C:\\Users\\USER\\vs workspace\\Cine_Interfaces\\Cine_Interfaces\\Pantalla_Butacas.xaml",
-              "RelativeToolTip": "Cine_Interfaces\\Pantalla_Butacas.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-17T21:49:36.441Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "Pantalla_Peliculas.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\vs workspace\\Cine_Interfaces\\Cine_Interfaces\\Pantalla_Peliculas.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\vs-workspace\\Cine_Interfaces\\K_Cinema\\Cine_Interfaces\\Pantalla_Peliculas.xaml.cs",
               "RelativeDocumentMoniker": "Cine_Interfaces\\Pantalla_Peliculas.xaml.cs",
-              "ToolTip": "C:\\Users\\USER\\vs workspace\\Cine_Interfaces\\Cine_Interfaces\\Pantalla_Peliculas.xaml.cs",
+              "ToolTip": "C:\\Users\\USER\\vs-workspace\\Cine_Interfaces\\K_Cinema\\Cine_Interfaces\\Pantalla_Peliculas.xaml.cs",
               "RelativeToolTip": "Cine_Interfaces\\Pantalla_Peliculas.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAABtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -305,91 +382,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "Pantalla_Sesiones.xaml",
-              "DocumentMoniker": "C:\\Users\\USER\\vs workspace\\Cine_Interfaces\\Cine_Interfaces\\Pantalla_Sesiones.xaml",
+              "DocumentMoniker": "C:\\Users\\USER\\vs-workspace\\Cine_Interfaces\\K_Cinema\\Cine_Interfaces\\Pantalla_Sesiones.xaml",
               "RelativeDocumentMoniker": "Cine_Interfaces\\Pantalla_Sesiones.xaml",
-              "ToolTip": "C:\\Users\\USER\\vs workspace\\Cine_Interfaces\\Cine_Interfaces\\Pantalla_Sesiones.xaml",
+              "ToolTip": "C:\\Users\\USER\\vs-workspace\\Cine_Interfaces\\K_Cinema\\Cine_Interfaces\\Pantalla_Sesiones.xaml",
               "RelativeToolTip": "Cine_Interfaces\\Pantalla_Sesiones.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-11-17T19:47:25.596Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "Pantalla_Peliculas.xaml",
-              "DocumentMoniker": "C:\\Users\\USER\\vs workspace\\Cine_Interfaces\\Cine_Interfaces\\Pantalla_Peliculas.xaml",
+              "DocumentMoniker": "C:\\Users\\USER\\vs-workspace\\Cine_Interfaces\\K_Cinema\\Cine_Interfaces\\Pantalla_Peliculas.xaml",
               "RelativeDocumentMoniker": "Cine_Interfaces\\Pantalla_Peliculas.xaml",
-              "ToolTip": "C:\\Users\\USER\\vs workspace\\Cine_Interfaces\\Cine_Interfaces\\Pantalla_Peliculas.xaml",
+              "ToolTip": "C:\\Users\\USER\\vs-workspace\\Cine_Interfaces\\K_Cinema\\Cine_Interfaces\\Pantalla_Peliculas.xaml",
               "RelativeToolTip": "Cine_Interfaces\\Pantalla_Peliculas.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-11-17T17:25:50.417Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 22,
               "Title": "Pantalla_Promociones.xaml",
-              "DocumentMoniker": "C:\\Users\\USER\\vs workspace\\Cine_Interfaces\\Cine_Interfaces\\Pantalla_Promociones.xaml",
+              "DocumentMoniker": "C:\\Users\\USER\\vs-workspace\\Cine_Interfaces\\K_Cinema\\Cine_Interfaces\\Pantalla_Promociones.xaml",
               "RelativeDocumentMoniker": "Cine_Interfaces\\Pantalla_Promociones.xaml",
-              "ToolTip": "C:\\Users\\USER\\vs workspace\\Cine_Interfaces\\Cine_Interfaces\\Pantalla_Promociones.xaml",
+              "ToolTip": "C:\\Users\\USER\\vs-workspace\\Cine_Interfaces\\K_Cinema\\Cine_Interfaces\\Pantalla_Promociones.xaml",
               "RelativeToolTip": "Cine_Interfaces\\Pantalla_Promociones.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-11-17T17:24:37.427Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Entrada.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\vs workspace\\Cine_Interfaces\\Cine_Interfaces\\Entrada.cs",
-              "RelativeDocumentMoniker": "Cine_Interfaces\\Entrada.cs",
-              "ToolTip": "C:\\Users\\USER\\vs workspace\\Cine_Interfaces\\Cine_Interfaces\\Entrada.cs",
-              "RelativeToolTip": "Cine_Interfaces\\Entrada.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T04:48:15.687Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "Pantalla_InicioSesion.xaml",
-              "DocumentMoniker": "C:\\Users\\USER\\vs workspace\\Cine_Interfaces\\Cine_Interfaces\\Pantalla_InicioSesion.xaml",
+              "DocumentMoniker": "C:\\Users\\USER\\vs-workspace\\Cine_Interfaces\\K_Cinema\\Cine_Interfaces\\Pantalla_InicioSesion.xaml",
               "RelativeDocumentMoniker": "Cine_Interfaces\\Pantalla_InicioSesion.xaml",
-              "ToolTip": "C:\\Users\\USER\\vs workspace\\Cine_Interfaces\\Cine_Interfaces\\Pantalla_InicioSesion.xaml",
+              "ToolTip": "C:\\Users\\USER\\vs-workspace\\Cine_Interfaces\\K_Cinema\\Cine_Interfaces\\Pantalla_InicioSesion.xaml",
               "RelativeToolTip": "Cine_Interfaces\\Pantalla_InicioSesion.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-11-17T17:26:05.622Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "DatabaseManager.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\vs workspace\\Cine_Interfaces\\Cine_Interfaces\\DatabaseManager.cs",
-              "RelativeDocumentMoniker": "Cine_Interfaces\\DatabaseManager.cs",
-              "ToolTip": "C:\\Users\\USER\\vs workspace\\Cine_Interfaces\\Cine_Interfaces\\DatabaseManager.cs",
-              "RelativeToolTip": "Cine_Interfaces\\DatabaseManager.cs",
-              "ViewState": "AgIAANUAAAAAAAAAAAAqwOMAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T18:43:35.014Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Cine_Interfaces.csproj",
-              "DocumentMoniker": "C:\\Users\\USER\\vs workspace\\Cine_Interfaces\\Cine_Interfaces\\Cine_Interfaces.csproj",
-              "RelativeDocumentMoniker": "Cine_Interfaces\\Cine_Interfaces.csproj",
-              "ToolTip": "C:\\Users\\USER\\vs workspace\\Cine_Interfaces\\Cine_Interfaces\\Cine_Interfaces.csproj",
-              "RelativeToolTip": "Cine_Interfaces\\Cine_Interfaces.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-17T17:04:44.017Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\vs workspace\\Cine_Interfaces\\Cine_Interfaces\\Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\vs-workspace\\Cine_Interfaces\\K_Cinema\\Cine_Interfaces\\Usuario.cs",
               "RelativeDocumentMoniker": "Cine_Interfaces\\Usuario.cs",
-              "ToolTip": "C:\\Users\\USER\\vs workspace\\Cine_Interfaces\\Cine_Interfaces\\Usuario.cs",
+              "ToolTip": "C:\\Users\\USER\\vs-workspace\\Cine_Interfaces\\K_Cinema\\Cine_Interfaces\\Usuario.cs",
               "RelativeToolTip": "Cine_Interfaces\\Usuario.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -397,11 +438,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "Sesion.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\vs workspace\\Cine_Interfaces\\Cine_Interfaces\\Sesion.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\vs-workspace\\Cine_Interfaces\\K_Cinema\\Cine_Interfaces\\Sesion.cs",
               "RelativeDocumentMoniker": "Cine_Interfaces\\Sesion.cs",
-              "ToolTip": "C:\\Users\\USER\\vs workspace\\Cine_Interfaces\\Cine_Interfaces\\Sesion.cs",
+              "ToolTip": "C:\\Users\\USER\\vs-workspace\\Cine_Interfaces\\K_Cinema\\Cine_Interfaces\\Sesion.cs",
               "RelativeToolTip": "Cine_Interfaces\\Sesion.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -409,11 +450,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "Pantalla_InicioSesion.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\vs workspace\\Cine_Interfaces\\Cine_Interfaces\\Pantalla_InicioSesion.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\vs-workspace\\Cine_Interfaces\\K_Cinema\\Cine_Interfaces\\Pantalla_InicioSesion.xaml.cs",
               "RelativeDocumentMoniker": "Cine_Interfaces\\Pantalla_InicioSesion.xaml.cs",
-              "ToolTip": "C:\\Users\\USER\\vs workspace\\Cine_Interfaces\\Cine_Interfaces\\Pantalla_InicioSesion.xaml.cs",
+              "ToolTip": "C:\\Users\\USER\\vs-workspace\\Cine_Interfaces\\K_Cinema\\Cine_Interfaces\\Pantalla_InicioSesion.xaml.cs",
               "RelativeToolTip": "Cine_Interfaces\\Pantalla_InicioSesion.xaml.cs",
               "ViewState": "AgIAAC0AAAAAAAAAAAAiwEAAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -421,11 +462,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "Butaca.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\vs workspace\\Cine_Interfaces\\Cine_Interfaces\\Butaca.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\vs-workspace\\Cine_Interfaces\\K_Cinema\\Cine_Interfaces\\Butaca.cs",
               "RelativeDocumentMoniker": "Cine_Interfaces\\Butaca.cs",
-              "ToolTip": "C:\\Users\\USER\\vs workspace\\Cine_Interfaces\\Cine_Interfaces\\Butaca.cs",
+              "ToolTip": "C:\\Users\\USER\\vs-workspace\\Cine_Interfaces\\K_Cinema\\Cine_Interfaces\\Butaca.cs",
               "RelativeToolTip": "Cine_Interfaces\\Butaca.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAgwCoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -433,11 +474,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\vs workspace\\Cine_Interfaces\\Cine_Interfaces\\AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\vs-workspace\\Cine_Interfaces\\K_Cinema\\Cine_Interfaces\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "Cine_Interfaces\\AssemblyInfo.cs",
-              "ToolTip": "C:\\Users\\USER\\vs workspace\\Cine_Interfaces\\Cine_Interfaces\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\USER\\vs-workspace\\Cine_Interfaces\\K_Cinema\\Cine_Interfaces\\AssemblyInfo.cs",
               "RelativeToolTip": "Cine_Interfaces\\AssemblyInfo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -445,14 +486,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 29,
               "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\USER\\vs workspace\\Cine_Interfaces\\Cine_Interfaces\\App.xaml",
+              "DocumentMoniker": "C:\\Users\\USER\\vs-workspace\\Cine_Interfaces\\K_Cinema\\Cine_Interfaces\\App.xaml",
               "RelativeDocumentMoniker": "Cine_Interfaces\\App.xaml",
-              "ToolTip": "C:\\Users\\USER\\vs workspace\\Cine_Interfaces\\Cine_Interfaces\\App.xaml",
+              "ToolTip": "C:\\Users\\USER\\vs-workspace\\Cine_Interfaces\\K_Cinema\\Cine_Interfaces\\App.xaml",
               "RelativeToolTip": "Cine_Interfaces\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-17T17:04:32.088Z"
+              "WhenOpened": "2024-11-17T17:04:32.088Z",
+              "EditorCaption": ""
             }
           ]
         }

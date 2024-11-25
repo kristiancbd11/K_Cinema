@@ -82,9 +82,10 @@ namespace Cine_Interfaces
         }
 
         // Nuevo método para modificar la disponibilidad de las butacas
-        public void ModificarDisponibilidad(int codSesion, int[] numButacas)
+        public void ModificarDisponibilidad(int codSesion, int[] numButacas, bool opcion)
         {
-            string query = "UPDATE Butacas SET Libre = FALSE WHERE CodSesion = @CodSesion AND NumButaca = @NumButaca";
+            // Selecciona el valor de Libre según la opción proporcionada
+            string query = "UPDATE Butacas SET Libre = @Libre WHERE CodSesion = @CodSesion AND NumButaca = @NumButaca";
 
             using (MySqlConnection conn = new MySqlConnection(connectionString))
             {
@@ -95,6 +96,7 @@ namespace Cine_Interfaces
                     foreach (var numButaca in numButacas)
                     {
                         MySqlCommand cmd = new MySqlCommand(query, conn);
+                        cmd.Parameters.Add("@Libre", MySqlDbType.Bit).Value = opcion; // `true` para Libre, `false` para no Libre
                         cmd.Parameters.Add("@CodSesion", MySqlDbType.Int32).Value = codSesion;
                         cmd.Parameters.Add("@NumButaca", MySqlDbType.Int32).Value = numButaca;
                         cmd.ExecuteNonQuery();
@@ -191,8 +193,8 @@ namespace Cine_Interfaces
         // Nuevo método para guardar entradas en la base de datos
         public void guardarEntradas(Usuario user, Sesion sesion, List<int> butacas)
         {
-            string query = "INSERT INTO Entradas (NombreUser, Pelicula, Cine, Hora, Minutos, NumButaca) " +
-                           "VALUES (@NombreUser, @Pelicula, @Cine, @Hora, @Minutos, @NumButaca)";
+            string query = "INSERT INTO Entradas (NombreUser, CodSesion, Pelicula, Cine, Hora, Minutos, NumButaca) " +
+                           "VALUES (@NombreUser, @CodSesion, @Pelicula, @Cine, @Hora, @Minutos, @NumButaca)";
 
             using (MySqlConnection conn = new MySqlConnection(connectionString))
             {
@@ -204,6 +206,7 @@ namespace Cine_Interfaces
                     {
                         MySqlCommand cmd = new MySqlCommand(query, conn);
                         cmd.Parameters.Add("@NombreUser", MySqlDbType.VarChar).Value = user.GetNombre();
+                        cmd.Parameters.Add("@CodSesion", MySqlDbType.Int32).Value = sesion.GetCodSesion();
                         cmd.Parameters.Add("@Pelicula", MySqlDbType.VarChar).Value = sesion.GetPelicula();
                         cmd.Parameters.Add("@Cine", MySqlDbType.VarChar).Value = sesion.GetCine();
                         cmd.Parameters.Add("@Hora", MySqlDbType.Int32).Value = sesion.GetHora();
@@ -224,7 +227,7 @@ namespace Cine_Interfaces
 
         public List<Entrada> VerEntradas(String user)
         {
-            string query = "SELECT NombreUser, Pelicula, Cine, Hora, Minutos, NumButaca FROM Entradas WHERE NombreUser = @NombreUser";
+            string query = "SELECT NombreUser, CodSesion, Pelicula, Cine, Hora, Minutos, NumButaca FROM Entradas WHERE NombreUser = @NombreUser";
             List<Entrada> entradasList = new List<Entrada>();
 
             using (MySqlConnection conn = new MySqlConnection(connectionString))
@@ -240,6 +243,7 @@ namespace Cine_Interfaces
                         while (reader.Read())
                         {
                             string nombreUser = reader.GetString("NombreUser");
+                            int codSesion = reader.GetInt32("CodSesion");
                             string pelicula = reader.GetString("Pelicula");
                             string cine = reader.GetString("Cine");
                             int hora = reader.GetInt32("Hora");
@@ -247,7 +251,7 @@ namespace Cine_Interfaces
                             int numButaca = reader.GetInt32("NumButaca");
 
                             // Crear objeto Entrada con los datos obtenidos
-                            Entrada entrada = new Entrada(nombreUser, pelicula, cine, hora, minutos, numButaca);
+                            Entrada entrada = new Entrada(nombreUser, codSesion, pelicula, cine, hora, minutos, numButaca);
                             entradasList.Add(entrada);
                         }
                     }
@@ -259,6 +263,72 @@ namespace Cine_Interfaces
             }
 
             return entradasList;
+        }
+        public string verContraseña(string user)
+        {
+            string query = "SELECT Passwd FROM Usuario WHERE NombreUser = @NombreUser";
+
+            using (MySqlConnection conn = new MySqlConnection(connectionString))
+            {
+                try
+                {
+                    conn.Open();
+                    MySqlCommand cmd = new MySqlCommand(query, conn);
+                    cmd.Parameters.Add("@NombreUser", MySqlDbType.VarChar).Value = user;
+
+                    // Ejecutar el comando y obtener la contraseña
+                    object result = cmd.ExecuteScalar();
+                    if (result != null)
+                    {
+                        return result.ToString(); // Devuelve la contraseña si se encuentra
+                    }
+                    else
+                    {
+                        return null; // Devuelve null si no se encuentra el usuario
+                    }
+                }
+                catch (Exception ex)
+                {
+                    Console.WriteLine($"Error al obtener la contraseña: {ex.Message}");
+                    return null; // Devuelve null en caso de error
+                }
+            }
+        }
+        public bool eliminarEntrada(string user, int sesion, int butaca)
+        {
+            string query = "DELETE FROM Entradas WHERE NombreUser = @NombreUser AND CodSesion = @CodSesion AND NumButaca = @NumButaca";
+
+            using (MySqlConnection conn = new MySqlConnection(connectionString))
+            {
+                try
+                {
+                    conn.Open();
+                    MySqlCommand cmd = new MySqlCommand(query, conn);
+                    cmd.Parameters.Add("@NombreUser", MySqlDbType.VarChar).Value = user;
+                    cmd.Parameters.Add("@CodSesion", MySqlDbType.Int32).Value = sesion;
+                    cmd.Parameters.Add("@NumButaca", MySqlDbType.Int32).Value = butaca;
+
+                    int rowsAffected = cmd.ExecuteNonQuery();
+
+                    // Si se eliminó correctamente la entrada, actualizamos la disponibilidad de la butaca
+                    if (rowsAffected > 0)
+                    {
+                        // Llamada al método ModificarDisponibilidad para marcar la butaca como libre
+                        ModificarDisponibilidad(sesion, new int[] { butaca }, true);
+                        return true; // Operación exitosa
+                    }
+                    else
+                    {
+                        Console.WriteLine("No se encontró una entrada que coincidiera con los criterios.");
+                        return false; // No se eliminó ninguna entrada
+                    }
+                }
+                catch (Exception ex)
+                {
+                    Console.WriteLine($"Error al eliminar la entrada: {ex.Message}");
+                    return false; // Error durante la operación
+                }
+            }
         }
     }
 }

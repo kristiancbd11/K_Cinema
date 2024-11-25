@@ -3,6 +3,9 @@ using System.Windows.Controls;
 
 namespace Cine_Interfaces
 {
+    //Hay que añadir funcionalidad para eliminar entradas
+    //Hay que añadir funcionalidad para eliminar usuario
+    //Rediseñar los botones para que el color no sea confuso
     public partial class MainWindow : Window
     {
         Usuario usuarioLogeado;

@@ -3,21 +3,41 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Title="Sala de Cine" Height="720" Width="1080"
         WindowStartupLocation="CenterScreen">
-    <Grid>
-        <Grid.Background>
-            <ImageBrush ImageSource="Images/fondo_vacio.jpeg"/>
-        </Grid.Background>
-        <!-- Rectángulo que representa la pantalla -->
-        <Rectangle Fill="Gray" Height="40" VerticalAlignment="Top" Margin="20,20,20,0"/>
-        <TextBlock Text="Pantalla" Foreground="White" FontSize="16" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,30,0,0"/>
-        <Image Source="Images/volver.png" 
-       HorizontalAlignment="Right" VerticalAlignment="Top" 
-       Margin="0,644,10,0" Width="50" Height="50" 
-       Cursor="Hand" MouseLeftButtonDown="Volver_Click" RenderTransformOrigin="-0.66,12.501"/>
+    <Window.Resources>
+        <!-- Estilo para las butacas -->
+        <Style x:Key="ButacaStyle" TargetType="Button">
+            <!-- Configuración inicial -->
+            <Setter Property="Background" Value="Blue" />
+            <Setter Property="Foreground" Value="White" />
+            <Setter Property="BorderBrush" Value="Transparent" />
+            <Setter Property="BorderThickness" Value="2" />
+            <Setter Property="Width" Value="35" />
+            <Setter Property="Height" Value="35" />
+            <Setter Property="FontSize" Value="10" />
+            <Style.Triggers>
+                <!-- Cambiar el borde a amarillo cuando el cursor esté sobre el botón -->
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter Property="BorderBrush" Value="Yellow" />
+                </Trigger>
+                <!-- Mantener el borde transparente si el botón está deshabilitado -->
+                <Trigger Property="IsEnabled" Value="False">
+                    <Setter Property="BorderBrush" Value="Transparent" />
+                </Trigger>
+            </Style.Triggers>
+        </Style>
 
-        <!-- Contenedor para los botones que representan las butacas -->
+    </Window.Resources>
+
+    <Grid>
+        <!-- Fondo, pantalla y grid para las butacas -->
+        <Grid.Background>
+            <ImageBrush ImageSource="Images/fondo_vacio.jpeg" />
+        </Grid.Background>
+        <Rectangle Fill="Gray" Height="40" VerticalAlignment="Top" Margin="20,20,20,0" />
+        <TextBlock Text="Pantalla" Foreground="White" FontSize="16" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,30,0,0" />
+        <Image Source="Images/volver.png" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,644,10,0" Width="50" Height="50" Cursor="Hand" MouseLeftButtonDown="Volver_Click" />
+
         <Grid Name="ButacasGrid" Margin="120,180,120,120">
-            <!-- Definición de filas y columnas -->
             <Grid.RowDefinitions>
                 <RowDefinition Height="*" />
                 <RowDefinition Height="*" />
@@ -41,8 +61,6 @@
         </Grid>
 
         <!-- Botón Confirmar -->
-        <Button Content="Confirmar" HorizontalAlignment="Center" VerticalAlignment="Bottom" 
-                Margin="0,0,0,30" Width="100" Height="40" Click="Confirmar_Click"/>
-        
+        <Button Content="Confirmar" HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="0,0,0,30" Width="100" Height="40" Click="Confirmar_Click" />
     </Grid>
 </Window>

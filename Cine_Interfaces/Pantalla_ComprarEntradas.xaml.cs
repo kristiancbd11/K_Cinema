@@ -104,7 +104,7 @@ namespace Cine_Interfaces
 
             // Llamar al método de la clase DatabaseHandler para modificar la disponibilidad
             DatabaseHandler dbHandler = new DatabaseHandler();
-            dbHandler.ModificarDisponibilidad(sesion.GetCodSesion(), butacasSeleccionadas.ToArray());
+            dbHandler.ModificarDisponibilidad(sesion.GetCodSesion(), butacasSeleccionadas.ToArray(), false);
             Usuario user = mainScreen.GetUsuario();
             dbHandler.guardarEntradas(user, sesion, butacasSeleccionadas);
             // Mostrar mensaje de confirmación

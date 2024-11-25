@@ -1,8 +1,8 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Media;
-using System.Linq;
 
 namespace Cine_Interfaces
 {
@@ -11,7 +11,7 @@ namespace Cine_Interfaces
         private Sesion sesion;
         private MainWindow mainScreen;
         private Pantalla_Sesiones screen;
-        private List<Button> botonesSeleccionados = new List<Button>(); // Lista para almacenar los botones seleccionados
+        private List<Button> botonesSeleccionados = new List<Button>();
 
         public Pantalla_Butacas(MainWindow mainScreen, Pantalla_Sesiones screen, Sesion sesion)
         {
@@ -53,25 +53,22 @@ namespace Cine_Interfaces
                             Margin = new Thickness(2),
                             Width = 35,
                             Height = 35,
-                            FontSize = 10
+                            FontSize = 10,
+                            Style = (Style)FindResource("ButacaStyle") // Asignar estilo
                         };
 
                         if (butacaInfo.GetEstado())
                         {
-                            butaca.Background = Brushes.Blue;
-                            butaca.Click += Butaca_Click; // Asignar evento para seleccionar
+                            butaca.Click += Butaca_Click;
                         }
                         else
                         {
                             butaca.Background = Brushes.Gray;
-                            butaca.IsEnabled = false; // No se puede hacer clic
+                            butaca.IsEnabled = false;
                         }
 
-                        // Colocar el botón en la posición correspondiente
                         Grid.SetRow(butaca, row);
                         Grid.SetColumn(butaca, col);
-
-                        // Agregar el botón al Grid
                         ButacasGrid.Children.Add(butaca);
 
                         buttonNumber++;
@@ -84,40 +81,38 @@ namespace Cine_Interfaces
         {
             Button butaca = sender as Button;
 
-            // Alternar entre color azul y rojo al hacer clic en la butaca
+            // Alternar entre azul y rojo al hacer clic en la butaca
             if (butaca.Background == Brushes.Blue)
             {
-                butaca.Background = Brushes.Red;
-                botonesSeleccionados.Add(butaca); // Añadir a la lista de seleccionados
+                butaca.Background = Brushes.Red; // Cambiar a rojo al seleccionar
+                botonesSeleccionados.Add(butaca);
             }
             else
             {
-                butaca.Background = Brushes.Blue;
-                botonesSeleccionados.Remove(butaca); // Quitar de la lista de seleccionados
+                butaca.Background = Brushes.Blue; // Volver a azul si se deselecciona
+                botonesSeleccionados.Remove(butaca);
             }
         }
 
-        // Método para manejar el evento de clic en el botón "Confirmar"
+
         private void Confirmar_Click(object sender, RoutedEventArgs e)
         {
-            // Verificar si se ha seleccionado al menos una butaca
             if (botonesSeleccionados.Count == 0)
             {
-                // Mostrar mensaje emergente si no se ha seleccionado ninguna butaca
                 MessageBox.Show("Por favor, selecciona al menos una butaca.", "Advertencia", MessageBoxButton.OK, MessageBoxImage.Warning);
             }
             else
             {
-                // Si se ha seleccionado al menos una butaca, navegar a la siguiente pantalla
-                Pantalla_ComprarEntradas pantallaComprar = new Pantalla_ComprarEntradas(mainScreen, this, sesion, botonesSeleccionados); // Pasa la lista de botones seleccionados
+                Pantalla_ComprarEntradas pantallaComprar = new Pantalla_ComprarEntradas(mainScreen, this, sesion, botonesSeleccionados);
                 pantallaComprar.Show();
-                this.Hide(); // Cerrar la pantalla actual
+                this.Hide();
             }
         }
+
         private void Volver_Click(object sender, System.Windows.Input.MouseButtonEventArgs e)
         {
-            this.Close(); // Cierra la ventana actual
-            screen.Visibility = Visibility.Visible; // Muestra la ventana principal
+            this.Close();
+            screen.Visibility = Visibility.Visible;
         }
     }
 }
